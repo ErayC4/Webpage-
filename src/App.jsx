@@ -4,6 +4,7 @@ import Landingpage from './components/landingpage'
 import Studies from './components/Benefits'
 import GetStarted from './components/getstarted'
 import Carousel from './components/carousel'
+import AddTimeBlock from './components/demo/AddTimeBlock'
 
 
 function App() {
@@ -14,8 +15,12 @@ function App() {
     <Navbar />
     <Landingpage />
     <Studies />
-    <Carousel />
+    <Carousel/>
     <GetStarted />
+    <div className=' absolute z-20 w-full '>
+    <AddTimeBlock />
+
+    </div>
     </div>
     </>
   )
