@@ -2,7 +2,7 @@ import React from "react";
 
 function Studies() {
   return (
-    <div className="px-32 bg-[#E1EBDC]">
+    <div className="px-64 pb-8">
       <p className="text-6xl mb-2">A platform designed for growth</p>
       <p className="text-lg mb-8">a powerful tool that helps you become a better student, if you want to</p>
       <div className="rounded-lg border border-green-800 flex gap-8">

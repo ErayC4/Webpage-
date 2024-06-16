@@ -2,7 +2,7 @@ import React from 'react'
 
 function GetStarted() {
   return (
-    <div className='flex justify-between px-32 pt-32 bg-[#E1EBDC]'>
+    <div className='flex justify-between px-64 pt-32 bg-black text-white'>
       <p className='text-9xl'>Get started for free</p>
       <div className='mt-auto'>
         <p className='text-lg'>Try Webflow for as long as you like with our free Starter plan. Purchase a paid Site plan to publish, host, and unlock additional features.</p>
